@@ -1,0 +1,1 @@
+# hass-scriptableWidget-power
